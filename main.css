@@ -1,0 +1,25 @@
+.title{
+color: rgb(241, 10, 10);
+font-size: medium;
+}
+.ins{
+float : right;     
+
+}
+.antes-depois-saiba-mais{
+    padding:30px
+}
+.antes-depois-saiba-mais a{
+    font-size:large;color:#fff;
+    text-decoration:none;
+    background-color:#ff0000;
+    padding:10px;
+    border-radius:10px
+}
+.antes-depois-saiba-mais a:hover{
+    background-color:#ff0000
+}
+.antes-depois-saiba-mais a:active{
+    background-color:#646262
+}
+body{background-color:#ff0000}
